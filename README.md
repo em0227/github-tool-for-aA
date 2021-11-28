@@ -25,7 +25,7 @@ GITHUB_USERNAME=your_github_name
 1. go to your github account settings
 2. find Developer settings
 
-   ![screenshot](https://github.com/em0227/github-tool-for-aA/img/screen-shot.png)
+   ![screenshot](https://github.com/em0227/github-tool-for-aA/blob/main/img/screen-shot.png)
 
 3. click Personal access tokens
 4. generate a new one token, choose your preferred expiration and select the scope of 'repo'
