@@ -18,15 +18,26 @@ GITHUB_USERNAME=your_github_name
 
 ```
 
+4. run 'node github.js' in the terminal
+
 ---
 
-### how to get your github token
+### How to get your github token
 
 1. go to your github account settings
+
+   ![screenshot](https://github.com/em0227/github-tool-for-aA/blob/main/img/screen-shot-1.png)
+
 2. find Developer settings
 
    ![screenshot](https://github.com/em0227/github-tool-for-aA/blob/main/img/screen-shot.png)
 
 3. click Personal access tokens
+
+   ![screenshot](https://github.com/em0227/github-tool-for-aA/blob/main/img/screen-shot-3.png)
+
 4. generate a new one token, choose your preferred expiration and select the scope of 'repo'
-5. click generate token and copy it immidately
+
+   ![screenshot](https://github.com/em0227/github-tool-for-aA/blob/main/img/screen-shot-4.png)
+
+5. click generate token and copy the generated token immidately
